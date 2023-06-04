@@ -1,4 +1,4 @@
-![image](https://github.com/kohutd/kuuAuth/assets/21020331/dc0fb52a-434c-44b7-a2c8-749e211d6e84)
+![image](https://github.com/kohutd/kuuAuth/assets/21020331/e4c8f0e3-6e0f-4945-bc4a-1cf0423d454c)
 
 # kuuAuth
 
