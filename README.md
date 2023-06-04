@@ -2,7 +2,7 @@
 
 # kuuAuth
 
-Know Your User Authentication - is an approach to user authentication that allows you to easily track user's activity before he got logged or registered.
+Know Your User Authentication - is an approach to user authentication that allows you to easily track user's activity before he gets logged or registered.
 
 ## How it works
 
