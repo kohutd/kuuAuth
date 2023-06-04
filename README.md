@@ -33,7 +33,7 @@ HTTP/2 200 OK
 X-MyAwesomeApplication-Session-Token: some_random_bytes
 Content-Type: application/json
 
-{"@type":"GuestSessionResult"}
+{"result":{"@type":"GuestSessionResult"}}
 ```
 
 
@@ -54,7 +54,7 @@ Response:
 HTTP/2 200 OK
 Content-Type: application/json
 
-{"@type":"GuestSessionResult"}
+{"result":{"@type":"GuestSessionResult"}}
 ```
 
 #### login/register
@@ -75,7 +75,7 @@ HTTP/2 200 OK
 X-MyAwesomeApplication-Session-Token: some_new_random_bytes
 Content-Type: application/json
 
-{"@type":"UserSessionResult"}
+{"result":{"@type":"UserSessionResult"}}
 ```
 
 **If user tries to login or register without session then the server should give an error.**
